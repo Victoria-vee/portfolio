@@ -34,7 +34,7 @@ Welcome to my personal developer portfolio — a showcase of my work, skills, an
 
 ## 📬 Contact
 
-- Email: vickyessien1@gmail.com
+- Email: essienvictoria2020@gmail.com 
 - GitHub: (https://github.com/Victoria-vee)  
 
 ---
